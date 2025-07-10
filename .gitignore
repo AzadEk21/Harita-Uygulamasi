@@ -1,0 +1,15 @@
+# Node (React)
+node_modules/
+.env
+build/
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.vs
+
+# Genel
+*.log
+*.DS_Store
