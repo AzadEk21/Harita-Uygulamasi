@@ -1,0 +1,6 @@
+@CBSstaj_HostAddress = http://localhost:5161
+
+GET {{CBSstaj_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
